@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 https://recordit.co/FX1p3YnN6z
-
-<img src= https://recordit.co/FX1p3YnN6z title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://recordit.co/FX1p3YnN6z.gif" width=250><br>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Recordit](https://recordit.co/) for macOS 
