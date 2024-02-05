@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+https://recordit.co/FX1p3YnN6z
+
 <img src= https://recordit.co/FX1p3YnN6z title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
